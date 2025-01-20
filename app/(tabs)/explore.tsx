@@ -37,7 +37,7 @@ export default function Explore() {
 
   const menuItems = [
     { name: "Početna", icon: "home-outline", route: "/" },
-    { name: "Kalendar", icon: "calendar-month-outline", route: "/Kalendar" },
+    { name: "Kalendar", icon: "calendar-month-outline", route: "/kalendarPopis" },
     { name: "Savjeti recikliranja", icon: "lightbulb-outline", route: "/savjeti" },
     { name: "Događaji", icon: "account-outline", route: "/dogadjaji" },
     { name: "Usluge odvoza", icon: "truck-outline", route: "/UslugeOdvoza" },

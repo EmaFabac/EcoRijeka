@@ -87,7 +87,7 @@ export default function CompanyDetails() {
 
       <View style={styles.iconTextContainer}>
         <View style={styles.iconContainer}>
-          <Ionicons name="person" size={20} color="#000" />
+          <Ionicons name="logo-firefox" size={20} color="#000" />
         </View>
         <View style={styles.textContainer}>
           <Text style={styles.organizerLabel}>Website:</Text>
@@ -102,7 +102,7 @@ export default function CompanyDetails() {
 
       <View style={styles.iconTextContainer}>
         <View style={styles.iconContainer}>
-          <Ionicons name="person" size={20} color="#000" />
+          <Ionicons name="call" size={20} color="#000" />
         </View>
         <View style={styles.textContainer}>
           <Text style={styles.organizerLabel}>Telefon:</Text>
@@ -114,7 +114,7 @@ export default function CompanyDetails() {
 
       <View style={styles.iconTextContainer}>
         <View style={styles.iconContainer}>
-          <Ionicons name="person" size={20} color="#000" />
+          <Ionicons name="mail" size={20} color="#000" />
         </View>
         <View style={styles.textContainer}>
           <Text style={styles.organizerLabel}>E-mail:</Text>

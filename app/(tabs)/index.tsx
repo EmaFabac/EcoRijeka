@@ -131,7 +131,7 @@ export default function Home() {
             <Text style={styles.boxTitle}>Kalendar</Text>
             <TouchableOpacity
               style={styles.boxContent}
-              onPress={() => router.push("/Kalendar")}
+              onPress={() => router.push("/kalendarPopis")}
             >
               <Image
                 source={require("@/assets/images/kalendar.png")} // Replace with your calendar image
